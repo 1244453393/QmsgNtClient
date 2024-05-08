@@ -1,9 +1,11 @@
 # Qmsg NT Client
-适用于Windows QQNT的Qmsg酱机器人客户端插件
+适用于Windows/MacOS QQNT的Qmsg酱机器人客户端插件
 > 基于LLOneBot v3.24.2
 > https://github.com/LLOneBot/LLOneBot
+
+插件运行环境基于`LiteLoaderQQNT`，支持Mac但是我没试过，因为我买不起Mac
 ## 安装Qmsg NT Client
-1. 首先要安装Windows QQNT客户端，直接去QQ官网下载最新的QQ9 https://im.qq.com/pcqq/index.shtml
+1. 首先要安装QQNT客户端，直接去QQ官网下载对应系统的QQ9 https://im.qq.com/index/#downloadAnchor
 2. 安装LiteLoaderQQNT，本插件需要LiteLoaderQQNT环境，安装文档 https://liteloaderqqnt.github.io/guide/install.html
 3. 在 [Releases](https://github.com/1244453393/QmsgNtClient/releases "QmsgNtClient Releases") 下载最新版本的插件
 4. 按照LiteLoaderQQNT插件手动安装步骤 https://liteloaderqqnt.github.io/guide/plugins.html#%E5%AE%89%E8%A3%85 将插件解压到LiteLoaderQQNT的plugins目录下
