@@ -12,6 +12,7 @@ https://qmsg.zendee.cn
 https://www.zendee.cn
 ## 设置界面
 此图并非最新版界面，请以安装后的界面为准
+
 <img src="./doc/image/setting.png" width="500px" alt="设置界面"/>
 
 ## Qmsg酱形象
