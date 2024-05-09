@@ -1,6 +1,6 @@
 # Qmsg NT Client
 适用于Windows/MacOS QQNT的Qmsg酱机器人客户端插件
-> 基于LLOneBot v3.24.2
+> 基于LLOneBot
 > https://github.com/LLOneBot/LLOneBot
 
 插件运行环境基于`LiteLoaderQQNT`，支持Mac但是我没试过，因为我买不起Mac
