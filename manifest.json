@@ -1,0 +1,33 @@
+{
+  "manifest_version": 4,
+  "type": "extension",
+  "name": "QmsgNtClient v1.0.6",
+  "slug": "QmsgNtClient",
+  "description": "Qmsg NT client from LLOneBot",
+  "version": "1.0.6",
+  "icon": "./icon.jpg",
+  "authors": [
+    {
+      "name": "dieyi",
+      "link": "https://www.zendee.cn"
+    }
+  ],
+  "repository": {
+    "repo": "1244453393/QmsgNtClient",
+    "branch": "main",
+    "release": {
+      "tag": "latest",
+      "name": "QmsgNtClient.zip"
+    }
+  },
+  "platform": [
+    "win32",
+    "linux",
+    "darwin"
+  ],
+  "injects": {
+    "renderer": "./renderer/index.js",
+    "main": "./main/main.cjs",
+    "preload": "./preload/preload.cjs"
+  }
+}
