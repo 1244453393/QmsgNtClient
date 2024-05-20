@@ -5,7 +5,7 @@
 
 插件运行环境基于`LiteLoaderQQNT`，支持Mac但是我没试过，因为我买不起Mac
 ## 安装Qmsg NT Client
-https://qmsg.zendee.cn/docs/app
+https://qmsg.zendee.cn/docs/pvt
 ## Qmsg酱官网
 https://qmsg.zendee.cn
 ## 我的万年不更新博客
