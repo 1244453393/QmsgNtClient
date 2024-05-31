@@ -1,10 +1,10 @@
 {
   "manifest_version": 4,
   "type": "extension",
-  "name": "QmsgNtClient v1.0.9",
+  "name": "QmsgNtClient v1.0.10",
   "slug": "QmsgNtClient",
   "description": "Qmsg NT client from LLOneBot",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "icon": "./icon.jpg",
   "authors": [
     {
