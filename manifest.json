@@ -1,15 +1,15 @@
 {
   "manifest_version": 4,
   "type": "extension",
-  "name": "QmsgNtClient v1.0.14",
+  "name": "QmsgNtClient",
   "slug": "QmsgNtClient",
   "description": "Qmsg NT client from LLOneBot",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "icon": "./icon.jpg",
   "authors": [
     {
       "name": "dieyi",
-      "link": "https://www.zendee.cn"
+      "link": "https://github.com/1244453393"
     }
   ],
   "repository": {
