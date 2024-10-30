@@ -4,7 +4,7 @@
   "name": "QmsgNtClient",
   "slug": "QmsgNtClient",
   "description": "Qmsg NT client from LLOneBot",
-  "version": "1.0.19",
+  "version": "1.0.21",
   "icon": "./icon.jpg",
   "authors": [
     {
