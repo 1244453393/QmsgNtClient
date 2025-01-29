@@ -1,4 +1,5 @@
 # Qmsg NT Client
+本项目暂停，全面拥抱更新更活跃平台更全面的NapCatQQ
 适用于Windows/MacOS QQNT的Qmsg酱机器人客户端插件
 > 基于LLOneBot
 > https://github.com/LLOneBot/LLOneBot
